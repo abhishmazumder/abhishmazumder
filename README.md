@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hey, I'm Abhish Mazumder!
 
-<!--
-**abhimazumder/abhimazumder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-stack developer** with a passion for building innovative web applications. Proficient in **React**, **Next.js**, **Node.js**, **MongoDB**, **AWS**, **Ant Design**, and **Material UI** technologies. I thrive on solving complex problems and delivering high-quality solutions.
 
-Here are some ideas to get you started:
+**Skills:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Frontend:** React, Next.js, Ant Design, Material UI
+* **Backend:** Node.js
+* **Database:** MongoDB
+* **Cloud:** AWS (Lambda, DynamoDB)
+* **Data Structures & Algorithms**
+
+**Connect:**
+
+* **Portfolio:** [abhishekmazumder.com](https://abhishekmazumder.com)
+* **LeetCode:** [abhishmazumder](https://leetcode.com/u/abhishmazumder/)
+* **LinkedIn:** [Abhish Mazumder](https://www.linkedin.com/in/abhishmazumder/)
+
+Let’s connect and create something awesome! 🚀
