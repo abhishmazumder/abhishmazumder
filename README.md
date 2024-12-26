@@ -13,8 +13,6 @@
 **Connect:**
 
 * **Portfolio:** [abhishekmazumder.com](https://abhishekmazumder.com)
-* **LeetCode:** [abhishmazumder](https://leetcode.com/u/abhishmazumder/)
-* **GeekForGeeks** [abhishmazumder](https://www.geeksforgeeks.org/user/abhishmazumder/)
 * **LinkedIn:** [Abhish Mazumder](https://www.linkedin.com/in/abhishmazumder/)
 
 Let’s connect and create something awesome! 🚀
